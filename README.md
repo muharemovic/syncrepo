@@ -15,3 +15,8 @@ Contents: Read and write
 touch .env
 
 Check env_example
+
+## 3. Run
+chmod +x syncrepo.py
+
+./syncrepo.py
