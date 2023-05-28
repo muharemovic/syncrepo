@@ -1,0 +1,3 @@
+ACCESS_TOKEN = your_token
+DIRECTORY_PATH = your path for example /home/user/IdeaProjects/
+HOSTNAME = github.com check your ~/.ssh/config file
