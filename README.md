@@ -12,6 +12,6 @@ Administration: Read and write
 Contents: Read and write
 
 ## 2. Create .env file:
-touch .env
+touch .env in src folder
 
 Check env_example
