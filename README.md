@@ -1,5 +1,5 @@
 # syncrepo
-
+Full Backup all your local repository with all branches
 ## 1. Create token:
 https://github.com/settings/personal-access-tokens/new
 
