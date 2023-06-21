@@ -1,5 +1,5 @@
 # syncrepo
-Full Backup all your local repository with all branches
+Perform a full backup of all your local repositories, including all branches, to your GitHub account.
 ## 1. Create token:
 https://github.com/settings/personal-access-tokens/new
 
